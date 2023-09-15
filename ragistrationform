@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+
+        <form>
+            <tr>
+                
+                <td><label >First name :-</label></td>
+                <td><input type="text" name="name" id="name">
+                </td></tr>
+                <tr>
+            <td>    <label>Last name :-</label></td>
+                <td><input type="text" name="name" id="name">
+            </tr>
+            <lable> Mother name :- <label>
+                <input type="text" name="name" id="name"><br><br><br>
+                <lable>Father name :- <label>
+                    <input type="text" name="name" id="name"><br><br><br>
+                    <tr>
+
+                      <td> <lable>Address :- <label></td> 
+                            <td><input type="text" name="add" id="add"></td>
+                        </tr>
+                        <tr>
+
+                            <td><lable>State :- <label></td>
+                                <td><input type="text" name="state" id="state"></td>
+                            </tr>
+                            <tr>
+                            <lable>City :- <label>
+                                <input type="text" name="city" id="city"><br><br><br>
+                            </tr>
+                            <lable>Pin :- <label>
+                                <input type="text" name="pin" id="pin"><br><br><br>
+                                <tr>
+                                    <lable>Email :- <label>
+                                        <input type="email" name="mail" id="mail"><br>
+                                        
+                                    </form>
+                                </table>
+</body>
+</html>
